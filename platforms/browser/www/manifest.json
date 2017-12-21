@@ -1,0 +1,11 @@
+{
+  "background_color": "#FFF",
+  "display": "standalone",
+  "name": "Caderneta da Criança",
+  "short_name": "Caderneta da Criança",
+  "version": "io.cordova.hellocordova",
+  "description": "Caderneta da Criança - Passaporte da Cidadania",
+  "author": "Desenvolvido por Fred Holland em parceria com In Media Comunicação Integrada",
+  "icons": [],
+  "start_url": "index.html"
+}
